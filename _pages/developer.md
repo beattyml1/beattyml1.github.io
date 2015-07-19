@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Engineer
-permalink: /developer/
+permalink: /
 ---
 
 I am a full stack web software engineer. Lately I have been really into frontend development and dev opsy things but I have a background ranging from web backend, to web frontend, to native Windows, to embedded Linux.
