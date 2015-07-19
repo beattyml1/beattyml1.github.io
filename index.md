@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Software Engineer
 ---
 
 # Software Engineer
