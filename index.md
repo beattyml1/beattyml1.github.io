@@ -7,7 +7,7 @@ I am a full stack web software engineer. I'm passionate about great UX and highl
 
 I am very active in Code & Supply (Pittsburg's polyglot tech community) as a board member, event planner, and speaker.
 
-I currently do full stack web development in a Multi-SPA, TypeScript+Knockout, frontend and Multi-Service, RESTful, N-Tier, C# Backend. Woo, that was a lot of adjectives.
+I currently do full stack web development in a TypeScript+Knockout frontend and Multi-Service, RESTful, N-Tier, C# Backend. Woo, that was a lot of adjectives.
 
 I also maintain [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator. I am also currently working on a Web UI for creating models for it called [DevCommand](https://www.devcommand.co/), it's not officially launched but you can still check it out. Both are written in Ruby. 
 
