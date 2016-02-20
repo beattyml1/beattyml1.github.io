@@ -30,7 +30,7 @@ Professional History
 Key Projects
 ----------- 
 
-### Developed new SPA+REST Web Based Billing Product
+### Developed new SPA+REST Web Based Billing Product (Net Health)
 - Integrated with companies primary EMR based product
 - N-Tier, Service Oriented, REST resource, backend written in C#
 - TypeScript SPA frontend
