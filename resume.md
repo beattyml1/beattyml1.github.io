@@ -28,7 +28,8 @@ Professional History
 - **Graphic Designer** (Temporary) at Upstreet Architects – June 2008 
 
 Key Projects
------------
+----------- 
+
 ### Developed new SPA+REST Web Based Billing Product
 - Integrated with companies primary EMR based product
 - N-Tier, Service Oriented, REST resource, backend written in C#
