@@ -31,8 +31,8 @@ Key Projects
 ----------- 
 
 ### Developed new SPA+REST Web Based Billing Product (Net Health)
-- Integrated with companies primary EMR based product
-- N-Tier, Service Oriented, REST resource, backend written in C#
+- Worked as a part of a team to build a new medical billing application integrated with company's EHR platform
+- REST Web API backend written in C# using multi-service, N-Tier, SOA architecture
 - TypeScript/Knockout/SCSS SPA frontend
 - One of the primary shapers of the architecture along with team lead
 - Implemented key architectural pieces such as API gateway, base controllers and interfaces
