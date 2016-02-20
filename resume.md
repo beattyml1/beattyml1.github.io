@@ -113,6 +113,6 @@ References are available upon request
 Social
 ------
 - GitHub: [github.com/beattyml1/](https://github.com/beattyml1/)
-- LinkedIn: [www.linkedin.com/in/mlbeatty/]
+- LinkedIn: [www.linkedin.com/in/mlbeatty/](https://www.linkedin.com/in/mlbeatty/)
 - Twitter: [@beattyml1](https://twitter.com/beattyml1/)
 - Website: [beattyml1.github.io](http://beattyml1.github.io)
