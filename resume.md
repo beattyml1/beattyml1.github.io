@@ -33,7 +33,7 @@ Key Projects
 ### Developed new SPA+REST Web Based Billing Product (Net Health)
 - Integrated with companies primary EMR based product
 - N-Tier, Service Oriented, REST resource, backend written in C#
-- TypeScript SPA frontend
+- TypeScript/Knockout/SCSS SPA frontend
 - One of the primary shapers of the architecture along with team lead
 - Implemented key architectural pieces such as API gateway, base controllers and interfaces
 - Mentored developers less experienced with modern web development on best practices, architecture, pitfalls, etc
@@ -42,6 +42,7 @@ Key Projects
 - Worked in a Scrum Framework
 - Set up initial builds and deploys
 - Created code generators and tooling to accelerate project and cutting project timeline
+- Setup initial unit testing architecture (Xunit/Moq)
 
 ### Modernized Development Process and Tools (Net Health)
 - Worked with stakeholders and technical lead to design and implment new branching, Continuous Integration and Deployment strategies, and various smaller process and tooling improvements
