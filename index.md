@@ -3,7 +3,7 @@ layout: page
 ---
 
 # Software Engineer
-I am a full stack web software engineer and core team member for [Abstractions Conference](abstractions.io) and [Code & Supply](codeandsupply.co). I currently do full stack web development on a TypeScript SPA frontend and multi-service RESTful C# web API at [Net Health](nethealth.com) along. 
+I am a full stack web software engineer and core team member for [Abstractions Conference](http://abstractions.io) and [Code & Supply](http://codeandsupply.co). I currently do full stack web development on a TypeScript SPA frontend and multi-service RESTful C# web API at [Net Health](http://nethealth.com) along. 
 
 Some things I'm passionate about: 
 
