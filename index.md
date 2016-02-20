@@ -25,3 +25,4 @@ As a hobby I also record/produce music. Mostly I record other people. If you wan
 
 # Other Hobbies
 In what little free time I have left I really like doing cool things with food and drink: cooking, baking, good tea and coffee. Recently I've started learning to brew tea in the traditional Chinese "Gong Fu Cha" or Kong Fu Tea style (litterally: tea with great skill). I also enjoy mixing drinks, I started with alcoholic drinks but got good enough that lately I've been trying my hand at more virgin drinks, for the challenge, since it's harder to get a good flavor without making it too sweet. And of course I love using all these things to do some awesome entertaining!
+ 
