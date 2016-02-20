@@ -83,7 +83,7 @@ Key Projects
 
 Side Projects and Software Community Involvement
 -----------------------------------------------
-- Abstractions Conference, Core Team: Helped make high impact decisions acrossed all teams, marketing and sponsorship coordination
+- Abstractions Conference, Core Team: Helped make high impact decisions across all teams, marketing and sponsorship coordination
 - Code & Supply, Core Team: Organized and spoke at events, involved in key strategic decisions for organization, regular attender
 - [Codgen code generator](https://github.com/beattyml1/codgen): a cross language code generator that injects JSON data into a user template. Written in Ruby
 - [MetaPotatoes Dynamic UI Library](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI react library for complex forms including tables and relationship selection.
