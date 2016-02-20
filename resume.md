@@ -13,8 +13,8 @@ BeattyML1@gmail.com
 Skills
 --------------
 - **Languages**: TypeScript, JavaScript, C\#/.NET, HTML, CSS/SCSS, SQL/T-SQL, Ruby, C++
-- **Concepts**: REST, SPA, N-Tier, SOA, MVC, MVVM
-- **Techs**: Knockout, ASP.NET MVC, NUnit, XUnit, Node, Postgres, Mongo, Moq, Angular, Kendo, SpecFlow, Selenium, Crystal Reports, SQL Server Reporting Service, WinForms, WebForms
+- **Concepts**: REST, SPA, N-Tier, SOA, MVC, MVVM, OOP, Functional Programming, LINQ
+- **Techs**: Knockout, ASP.NET MVC, NUnit, XUnit, Node, React, Mongo, Moq, Angular, Kendo, SpecFlow, Selenium, Crystal Reports, SQL Server Reporting Service, WinForms, WebForms
 - **Tools**: Git, Mercurial, Visual Studio, ReSharper, Atom, VIM, Jira, TFS, SVN, various bug trackers
 
 Professional History
