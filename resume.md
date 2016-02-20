@@ -4,15 +4,12 @@ layout: page
 
 Matthew Beatty
 ==============
-
-4402 Woolslayer Way
-
-Pittsburgh, PA 15224
-
-BeattyML1@gmail.com
-
-724-464-3019
-
+<div id="address">
+<p>4402 Woolslayer Way</p>
+<p>Pittsburgh, PA 15224</p>
+<p><a href="mailto:BeattyML1@gmail.com">BeattyML1@gmail.com</a></p>
+<p>724-464-3019</p>
+</div>
 
 Skills
 --------------
