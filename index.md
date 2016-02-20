@@ -3,9 +3,9 @@ layout: page
 ---
 
 # Software Engineer
-I am a full stack web software engineer and core team member for Abstractions Conference and Code & Supply. I currently do full stack web development on a TypeScript SPA frontend and multi-service RESTfull C# web API at Net Health.
+I am a full stack web software engineer and core team member for Abstractions Conference and Code & Supply. I currently do full stack web development on a TypeScript SPA frontend and multi-service RESTfull C# web API at Net Health along. 
 
-I'm passionate about: 
+Some things I'm passionate about: 
 
 Great UX, highly maintainable code, fast iterative development and learning, the local software community, continuous learning, positive corporate cultures, and tech diversity. I like really hard problems: if you tell me something can't be done I will try to prove you wrong.
 
@@ -13,8 +13,8 @@ Great UX, highly maintainable code, fast iterative development and learning, the
 Side projects: 
 
 - [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator written in Ruby.
-- [MetaPotatoes](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI React library for complex forms including tables and relationship selection.
-- A backend and model editor for for MetaPotatoes probably called Updoc
+- [MetaPotatoes](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI react library for complex forms including tables and relationship selection.
+- A backend and model editor for for MetaPotatoes probably called Updoc running on node and react
 
 I'm open to new possibilities but not really actively looking at the moment and so will only entertain top notch offers. If you think you've got an awesome project at an awesome company with a worthy compensation package get in touch.
 
