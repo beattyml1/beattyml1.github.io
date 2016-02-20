@@ -29,7 +29,7 @@ Professional History
 
 Key Projects
 -----------
-###Developed new SPA+REST Web Based Billing Product
+### Developed new SPA+REST Web Based Billing Product
 - Integrated with companies primary EMR based product
 - N-Tier, Service Oriented, REST resource, backend written in C#
 - TypeScript SPA frontend
@@ -42,42 +42,42 @@ Key Projects
 - Set up initial builds and deploys
 - Created code generators and tooling to accelerate project and cutting project timeline
 
-###Modernized Development Process and Tools (Net Health)
+### Modernized Development Process and Tools (Net Health)
 - Worked with stakeholders and technical lead to design and implment new branching, Continuous Integration and Deployment strategies, and various smaller process and tooling improvements
 
-###Developed Web Based CRM (Future POS)
+### Developed Web Based CRM (Future POS)
 - Worked as part of team to build new custom CRM system from the ground up
 - Was also responsible for projects unit and behavioral tests (NUnit, Selenium, SpecFlow)
 - Microsoft MVC Framework: C\#/.NET, CSHTML/Razor, JavaScript, CSS, Custom ORM, TSQL
     
-###Ported Product from Local Network App to Cloud Based App (RAM Software Systems)
+### Ported Product from Local Network App to Cloud Based App (RAM Software Systems)
 - Worked as a part of a team to port company’s billing and accounting product from a C++ based local network application to a Silverlight based cloud application. After porting added new features to encourage upgrade.
 - C\#/.NET, C++, Silverlight (Similar to WPF), XAML
 
-###Architected and Developed Embedded Touch Screen (Quintech Electronics)
+### Architected and Developed Embedded Touch Screen (Quintech Electronics)
 - Architected and developed and aided in the design of industry leading touchscreen interface for company’s flagship product
 - Involved close work with executives and other upper management to to define requirements, architecture, and design
 - Embedded Linux, C++, Qt Framework
 
-###Maintained and Developed New Features for Existing Web Store (Future POS)
+### Maintained and Developed New Features for Existing Web Store (Future POS)
 - ASP.NET, C\#/.NET 
 
-###Developed Reports (Future POS)
+### Developed Reports (Future POS)
 - Web Reports: Microsoft MVC: C\#/.NET, HTML, JavaScript, TSQL 
 - One of Repports: TSQL and Excel
 
-###Developed Communications and Control Utilities (Quintech Electronics)
+### Developed Communications and Control Utilities (Quintech Electronics)
 - Worked with users to define requirements 
 - C\#/.NET WinForms and Visual Basic Application, various communications protocols, Excel
 
-###Maintained and Developed Features for Existing Billing and Accounting Software (RAM Software Systems)
+### Maintained and Developed Features for Existing Billing and Accounting Software (RAM Software Systems)
 - C++, TSQL, Crystal Reports 
 
-###Reporting Dashboard and Data-Warehouse (RAM Software Systems) 
+### Reporting Dashboard and Data-Warehouse (RAM Software Systems) 
 - Developed reports: SQL Server Reporting Services, TSQL
 - Wrote Unit Tests: NUnit
 
-###Embedded Web Interface for a Weather Data Collection Device Concept (HCJB Global, senior project)
+### Embedded Web Interface for a Weather Data Collection Device Concept (HCJB Global, senior project)
 - PHP, SQLite,  Embedded Linux 
 
 Side Projects and Software Community Involvement
