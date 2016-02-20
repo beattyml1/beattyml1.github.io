@@ -3,15 +3,20 @@ layout: page
 ---
 
 # Software Engineer
-I am a full stack web software engineer. I'm passionate about great UX and highly maintainable and performant code. I like really hard problems: if you tell me something can't be done I will try to prove you wrong.
+I am a full stack web software engineer and core team member for Abstractions Conference and Code & Supply. I currently do full stack web development on a TypeScript SPA frontend and multi-service RESTfull C# web API at Net Health.
 
-I am very active in Code & Supply (Pittsburg's polyglot tech community) as a board member, event planner, and speaker.
+I'm passionate about: 
 
-I currently do full stack web development in a TypeScript+Knockout frontend and Multi-Service, RESTful, N-Tier, C# Backend. Woo, that was a lot of adjectives.
+Great UX, highly maintainable code, fast iterative development and learning, the local software community, continuous learning, positive corporate cultures, and tech diversity. I like really hard problems: if you tell me something can't be done I will try to prove you wrong.
 
-I also maintain [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator. I am also currently working on a Web UI for creating models for it called [DevCommand](https://www.devcommand.co/), it's not officially launched but you can still check it out. Both are written in Ruby. 
 
-I’m pretty happy where I am now and am not looking to leave but I like new challenges so if you think you’ve got a super awesome project that I would be interested in private message me on Twitter with your best pitch.
+Side projects: 
+
+- [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator written in Ruby.
+- [MetaPotatoes](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI React library for complex forms including tables and relationship selection.
+- A backend and model editor for for MetaPotatoes probably called Updoc
+
+I'm open to new possibilities but not really actively looking at the moment and so will only entertain top notch offers. If you think you've got an awesome project at an awesome company with a worthy compensation package get in touch.
 
 # Music Producer
 As a hobby I also record/produce music. Mostly I record other people. If you want to here some of what I've done check it out below. If you're interested in working together feel free to private message me on Twitter.
