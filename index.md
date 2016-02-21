@@ -13,8 +13,8 @@ Great UX, highly maintainable code, fast iterative development and learning, the
 Side projects: 
 
 - [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator written in Ruby.
-- [MetaPotatoes](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI react library for complex forms including tables and relationship selection.
-- A backend and model editor for for MetaPotatoes probably called Updoc running on node and react
+- [MetaPotatoes](https://github.com/beattyml1/MetaPotatoes): a work in progress, open source, dynamic UI, React.js library for complex forms including complex fields like tables and relationship selection.
+- A backend and model editor for for MetaPotatoes probably called Updoc running on Node and React
 
 I'm open to new possibilities but not really actively looking at the moment and so will only entertain top notch offers. If you think you've got an awesome project at an awesome company with a worthy compensation package get in touch.
 
