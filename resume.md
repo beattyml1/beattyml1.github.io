@@ -83,6 +83,7 @@ Side Projects and Software Community Involvement
 - Code & Supply, Core Team: Organized and spoke at events, involved in key strategic decisions for organization, regular attender
 - [Codgen code generator](https://github.com/beattyml1/codgen): a cross language code generator that injects JSON data into a user template. Written in Ruby
 - [MetaPotatoes Dynamic UI Library](https://github.com/beattyml1/MetaPotatoes): an open source dynamic UI react library for complex forms including tables and relationship selection.
+- [Clever Web Framework](https://github.com/beattyml1/Clever): a clever convention first .NET N-Tier web framework that gracefully falls back to configurations. Support for things like smart auto-mapping, build in isomorphic react,  and generally writing as little code as possible and getting up and running as quick as possible. 
 - A backend and model editor for for MetaPotatoes probably called Updoc running on node and react
 
 Education
