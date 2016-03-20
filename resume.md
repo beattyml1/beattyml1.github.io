@@ -39,7 +39,8 @@ Key Projects
 - Setup initial unit testing architecture (Xunit/Moq)
 
 ### Modernized Development Process and Tools (Net Health)
-- Worked with stakeholders and technical lead to design and implment new branching, Continuous Integration and Deployment strategies, and various smaller process and tooling improvements
+- Worked with stakeholders and technical lead to design and implment new branching, Continuous Integration, and Continuous Deployment strategies, along with various smaller process and tooling improvements
+- Process and tools supported work in a agile environment with strict quality assurance needs and support for multiple teams
 
 ### Developed Web Based CRM (Future POS)
 - Worked as part of team to build new custom CRM system from the ground up
