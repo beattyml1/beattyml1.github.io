@@ -15,7 +15,7 @@ Skills
 Professional History
 ------------------
 - **Full Stack Web Software Engineer** at Net Health – August 2014 - Present
-- **Core Team Member** at Code and Supply and Abstractions Conference – 2014 - Present
+- **Core Team Member (Side/Volunteer)** at Code and Supply and Abstractions Conference – 2014 - Present
 - **Full Stack Web Software Engineer** at Future POS – October 2013 – July 2014
 - **Software Engineer** at RAM Software Systems – June 2011- October 2013
 - **Engineering Intern/Developer** at Quintech Electronics and Communications – July 2008 – August 2010
