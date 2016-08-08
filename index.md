@@ -5,7 +5,13 @@ layout: page
 # Software Engineer
 I am a full stack web software engineer and core team member for [Abstractions Conference](http://abstractions.io) and [Code & Supply](http://codeandsupply.co). I currently do full stack web development on a SPA + multi-service REST API web platform [Net Health](http://nethealth.com). 
 
-I love great user experiences, fast iterative development and learning, maintainable code, quick feedback loops, the local software community, continuous learning, positive corporate cultures, and diversity in tech. I really like hard problems and delight in accomplishing the seemingly impossible. I spend my life outside the box but love best practices and sensible defaults. I have a handful of strong opinions but but generally hold loosely and embrace the unknown. I am firm believer in intentional, measured, data-driven development but believe the best way to get that data whether market fit or user-friendliness is just to dive in and try it and see what happens.
+I am full-stack but am passionate about great user experiences, love complex layout work, and controls. I also a firm believer that your URLs and APIs are part of your user interface.  
+
+I am into fast iterative development and learning, maintainable code, quick feedback loops, the local software community, continuous learning, positive corporate cultures, and diversity in tech. 
+
+I really like hard problems and delight in accomplishing the seemingly impossible. I spend my life outside the box but love best practices and sensible defaults. I have a handful of strong opinions but but generally hold loosely and embrace the unknown. 
+
+I am firm believer in intentional, measured, data-driven development but believe the best way to get that data whether market fit or user-friendliness is just to dive in and try it and see what happens.
 
 Some of my best fits would be:
 - At a startup that values passion, cleverness, and flexibility over bullet point tech matches: I love the unkown, am biased toward action, value autonomy, and love working with customers and stakeholders directly. 
