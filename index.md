@@ -5,17 +5,17 @@ layout: page
 # Software Engineer
 I am a full stack web software engineer and core team member for [Abstractions Conference](http://abstractions.io) and [Code & Supply](http://codeandsupply.co). I currently do full stack web development on a SPA + multi-service REST API web platform [Net Health](http://nethealth.com). 
 
-I am full-stack but am passionate about great user experiences, love complex layout work, and controls. I also a firm believer that your URLs and APIs are part of your user interface.  
+- I am passionate about great user experiences and dabble in design. I lose track of time when doing responsive layout 
+- I am love learning, I relish moving fast but also doing things right. Rapid iteration and measuring resultsis my way to have it all
+- I am like really like hard problems
+- I spend my life outside the box but love best practices and sensible defaults
+- I have a handful of strong opinions but but generally hold loosely and embrace the unknown
+- I'm kind of a corporate culture/agile/lean nerd. 
 
-I am into fast iterative development and learning, maintainable code, quick feedback loops, the local software community, continuous learning, positive corporate cultures, and diversity in tech. 
-
-I really like hard problems and delight in accomplishing the seemingly impossible. I spend my life outside the box but love best practices and sensible defaults. I have a handful of strong opinions but but generally hold loosely and embrace the unknown. 
-
-I am firm believer in intentional, measured, data-driven development but believe the best way to get that data whether market fit or user-friendliness is just to dive in and try it and see what happens.
 
 Some of my best fits would be:
-- At a startup that values passion, cleverness, and flexibility over bullet point tech matches: I love the unkown, am biased toward action, value autonomy, and love working with customers and stakeholders directly. 
-- A medium sized company that has there shit together: I care about code quality and love good process that helps me get shit done and produces a great product and code but can't stomach red tape. Such a company should be doing pull requests, CI, automated testing, and should be have an agile framework in place as well as an agile mindset for the company.
+- At a startup that values passion, cleverness, and flexibility over bullet point tech matches: I love the unkown, am biased toward action, value autonomy and impact, and enjoy working with customers and stakeholders directly. I also know a good bit about scaling process that would be useful at growth stage.
+- A medium sized company that has their shit together: I care about code quality and love good process that helps me get shit done and produces a great product and code but can't stomach red tape. Such a company should be doing pull requests, CI, automated testing, and should be have an agile framework in place as well as an agile mindset for the company.
 - A smaller, older company looking to have someone take a leading roll in modernizing their UI/Code/Process: I've done stuff like this before both as a junior and as senior developer. I know this problem well. This would probably work best in the tech I know best (JavaScript/TypeScipt on Frontend, C# Web API backend)
 
 Tech Wise: 
