@@ -3,11 +3,11 @@ layout: page
 ---
 
 # Software Engineer
-I am a full stack web software engineer and core team member for [Abstractions Conference](http://abstractions.io) and [Code & Supply](http://codeandsupply.co). I currently do full stack web development on a SPA + multi-service REST API web platform [Net Health](http://nethealth.com). 
+I am a full stack web software engineer and core team member for [Abstractions Conference](http://abstractions.io) and [Code & Supply](http://codeandsupply.co). I currently do full stack web development on a SPA + multi-service REST API web platform at [Net Health](http://nethealth.com). 
 
 - I am passionate about great user experiences and dabble in design. I lose track of time when doing responsive layout 
-- I am love learning, I relish moving fast but also doing things right. Rapid iteration and measuring resultsis my way to have it all
-- I am like really like hard problems
+- I am love learning, I relish moving fast but also doing things right. Rapid iteration and measuring results is my way to have it all
+- I really like hard problems
 - I spend my life outside the box but love best practices and sensible defaults
 - I have a handful of strong opinions but but generally hold loosely and embrace the unknown
 - I'm kind of a corporate culture/agile/lean nerd. 
