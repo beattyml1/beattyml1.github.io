@@ -29,7 +29,7 @@ Tech Wise:
 
 Side projects: 
 
-- [Metatonic](https://github.com/beattyml1/metatonic-platfom): A dynamic data entry TypeScript library that can create complex forms from a simple JSON or TypeScript schema. Created as a core module that is view framework agnostic and react module that implements the actually editors/views. Work in progress but with significant progress.
+- [Metatonic](https://github.com/beattyml1/metatonic-platform): A dynamic data entry TypeScript library that can create complex forms from a simple JSON or TypeScript schema. Created as a core module that is view framework agnostic and react module that implements the actually editors/views. Work in progress but with significant progress.
 - [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator written in Ruby. Complete but idle due to lack of use
 
 # Music Producer
