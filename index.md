@@ -14,12 +14,14 @@ I am a full stack web software engineer and core team member for [Abstractions C
 
 
 Some of my best fits would be:
+
 - At a startup that values passion, cleverness, and flexibility over bullet point tech matches: I love the unkown, am biased toward action, value autonomy and impact, and enjoy working with customers and stakeholders directly. I also know a good bit about scaling process that would be useful at growth stage.
 - A medium sized company that has their shit together: I care about code quality and love good process that helps me get shit done and produces a great product and code but can't stomach red tape. Such a company should be doing pull requests, CI, automated testing, and should be have an agile framework in place as well as an agile mindset for the company.
 - A smaller, older company looking to have someone take a leading roll in modernizing their UI/Code/Process: I've done stuff like this before both as a junior and as senior developer. I know this problem well. This would probably work best in the tech I know best (JavaScript/TypeScipt on Frontend, C# Web API backend)
 - A Quality focused Agile Consultancy: I love trying new things, going where the need is, working with many different techs, moving fast, and iterating. I believe that good work equals repeat customers. I would be especially valueable as a senior consultant for modernization projects whether UI, code, process, or tooling. I've done it multiple times with increasing responsibility, know the pitfalls, what tools are available, how to speed up the project without killing quality, and can balance presenting a solution and presenting a range of options. 
 
 Tech Wise: 
+
 - Frontend:I love JavaScript/TypeScript and have acheived master over it and would want to continue working in JavaScript. I have tried all of the major frontend frameworks and have extensive experience with one of them.
 - Backend: Most of my professional backend experience is in C# and most of my side projects are node or ruby. I love functional languages so huge bonus points if you want to hire me for that
 - Source Control: Git or git out
@@ -27,10 +29,8 @@ Tech Wise:
 
 Side projects: 
 
+- [Metatonic](https://github.com/beattyml1/metatonic-platfom): A dynamic data entry TypeScript library that can create complex forms from a simple JSON or TypeScript schema. Created as a core module that is view framework agnostic and react module that implements the actually editors/views. Work in progress but with significant progress.
 - [codgen](https://github.com/beattyml1/codgen): an open source template+JSON model based code generator written in Ruby. Complete but idle due to lack of use
-- [Metabolic](https://github.com/beattyml1/MetaPotatoes): a work in progress, open source, dynamic UI, React.js library for complex forms including complex fields like tables and relationship selection. This is my current project
-- [Clever Web Framework](https://github.com/beattyml1/Clever): a clever convention first .NET N-Tier web framework that gracefully falls back to configurations. Support for things like smart auto-mapping, build in isomorphic react, and generally writing as little code as possible and getting up and running as quick as possible. Currently incomplete and shelved but with enough work to be interesting
-- A backend and model editor for for Metabolic probably called Updoc running on Node and React
 
 # Music Producer
 As a hobby I also record/produce music. Mostly I record other people. If you want to here some of what I've done check it out below. If you're interested in working together feel free to private message me on Twitter.
